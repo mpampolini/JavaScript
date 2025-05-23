@@ -15,6 +15,8 @@ function falaOi() {
 
 let vaiExecutar = true;
 
+console.log(vaiExecutar && falaOi());
+
 console.log(vaiExecutar && falaOi() && true);
 
 console.log(

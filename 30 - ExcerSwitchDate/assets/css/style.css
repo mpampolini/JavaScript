@@ -19,7 +19,7 @@ body {
 }
 
 .container {
-  max-width: 640px;
+  max-width: 680px;
   margin: 50px auto;
   background: #fff;
   padding: 20px;
@@ -55,13 +55,4 @@ form button {
 
 form button:hover {
   background: var(--primary-color-darker);
-}
-
-.paragrafo-resultado, .bad{
-  background: #6dffb6;
-  padding: 10px 20px;
-}
-
-.bad {
-  background: #ff6d6d;
 }
