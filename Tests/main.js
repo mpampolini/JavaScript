@@ -29,3 +29,12 @@ console.log(`Numeros: ${numeros}`);
 console.log(`Numeros1: ${numeros1}`);
 console.log(`Numeros2: ${numeros2}`);
 console.log(`Numeros4: ${numeros4}`);
+
+let numero = 2;
+const pessoa = [
+  { nome: "Lucas", idade: 25 },
+  { nome: "Ana", idade: 30 },
+  { nome: "João", idade: 28 },
+][numero];
+
+console.log(pessoa);
